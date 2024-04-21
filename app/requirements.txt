@@ -1,0 +1,15 @@
+pandas
+plotly
+seaborn
+shiny
+shinywidgets
+networkx
+matplotlib
+pyvis
+geotext
+pycountry
+numpy
+IPython
+xgboost
+requests
+palmerpenguins
