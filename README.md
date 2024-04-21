@@ -1,9 +1,20 @@
 # Data4Good Festival - Encompass
-IE 404 : Team Not Found 
+
+**IE 404 : Team Not Found**
 
 ## Missing Migrants Project
 
 The dataset provided by the Missing Migrants Project tracks the deaths of migrants, including refugees and asylum-seekers, who have perished or gone missing during the process of migration towards international destinations. It spans the years from 2014 to 2024, encompassing significant periods of global migration activity. It's important to note that   these data represent minimum estimates, as many migrant deaths during migration remain unrecorded. The dataset includes information on attempted crossings of the Mediterranean  Sea from 2016 to 2024, detailing arrivals in Europe, interceptions by North African and Turkish Coast Guards, as well as migrant deaths and disappearances.
+
+
+**Objectives of the analysis:**
+1. Understanding Migration Patterns: Analyze trends in migrant deaths, arrivals in Europe, and interceptions by authorities to understand migration dynamics, especially in the Mediterranean.
+
+2. Identifying Risk Factors: Identify factors contributing to migrant deaths, such as routes, seasons, and demographics, to inform risk reduction strategies.
+
+3. Informing Policy and Intervention: Provide insights for policy-makers and intervention efforts to improve migration management and protect vulnerable migrants.
+
+4. Raising Awareness: Highlight the human toll of irregular migration and advocate for international cooperation and humanitarian responses to address migrant safety.
 
 ## Table of Contents
 
