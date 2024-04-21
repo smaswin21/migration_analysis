@@ -25,8 +25,33 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 
 ## Installation ADD CONTENT
 
-[Provide step-by-step instructions on how to install and set up your project, including any dependencies or prerequisites needed.]
-- Install the necessary packages which can be found in the beginning of each jupyter notebook.
+## Installation
+
+To set up and install our project on your local device, follow these steps:
+
+1. **Clone the Repository**: Begin by cloning the repository to your local machine. You can do this by executing the following command in your terminal or command prompt:
+
+   ```
+   git clone [repository URL]
+   ```
+
+2. **Install Dependencies**: Navigate to the project directory and install the necessary packages and dependencies. You can find a list of required packages in the beginning of each Jupyter notebook or in the `requirements.txt` file. Install the packages using pip or conda:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+   or
+
+   ```
+   conda install --file requirements.txt
+   ```
+
+   Make sure to activate your virtual environment if you are using one.
+
+3. **Set Up Environment**: If there are any additional environment configurations or setups required, please refer to the project documentation or README file for instructions.
+
+By following these steps, you should be able to successfully install and set up our project on your local machine. If you encounter any issues or have any questions, feel free to reach out to us for assistance.
 
 ## Usage ADD CONTENT
 
@@ -59,19 +84,42 @@ We extend our sincere appreciation to the following individuals, organizations, 
 We also draw inspiration from various sources and references throughout the development process, contributing to the creativity and effectiveness of our project.
 
 ## Resources
+Sweetviz. (n.d.). Retrieved from https://pypi.org/project/sweetviz/
 
+Shiny. (n.d.). Retrieved from https://shiny.posit.co/py/
 
-## Support
+OpenAI. (n.d.). OpenAI API Documentation. Retrieved from https://platform.openai.com/docs/api-reference?lang=python
 
-[Provide contact information or links to support channels where users can seek help or report issues related to your project.]
+## About the Authors
 
-## About the Author
+We are a team of Bachelor students from IE University, comprising Armand Hubler, Isabel De Valenzuela, Aswin Subramanian Maheswaran, Emili Khachatryan, and Riyad Mazari. Our academic pursuits span across Computer Science, Data and Business Analytics, and Business Administration.
 
-[Provide a brief bio or introduction about yourself, including your role in developing the project and any relevant background or expertise.]
+With a shared passion for technology and social impact, we have collaborated to develop this project, leveraging our diverse skill sets and academic backgrounds. Our combined expertise in computer science, data analytics, and business administration has been instrumental in conceptualizing, designing, and implementing innovative solutions to address real-world challenges.
+
+As aspiring professionals in our respective fields, we are committed to leveraging technology for positive change and making meaningful contributions to society. We are excited to share our project with the community and welcome feedback and collaboration opportunities to further enhance its impact.
 
 ## Roadmap
 
-[Outline any future plans, enhancements, or features planned for your project. Invite users to contribute ideas or feedback to help shape the project's roadmap.]
+### Enhanced Data Sources
+
+To enrich our dataset and provide a more comprehensive understanding of migration dynamics, we have incorporated additional sources:
+
+- **Social Media Monitoring**: We have implemented a social media monitoring system to gather real-time data and insights from various platforms. This allows us to capture public discourse, sentiments, and emerging trends related to migration issues.
+
+- **Official Government Reports & NGO Data**: We have integrated official government reports and data from non-governmental organizations (NGOs) to complement our dataset. These authoritative sources provide valuable statistics and insights into migration patterns, challenges, and interventions.
+
+### Expanded Variables
+
+In order to capture a more nuanced picture of migrant demographics and experiences, we have expanded our dataset to include additional variables:
+
+- **Gender, Age, Family Size, etc.**: We have scraped data on gender, age, family size, and other relevant demographics to better understand the composition and needs of migrant populations. This allows us to analyze migration trends and outcomes through a more intersectional lens.
+
+### Integration with Policy Tools
+
+To facilitate informed decision-making and policy development, we have integrated our platform with policy tools and frameworks:
+
+- **APIs and Plugins for Policy Integration**: We have developed APIs and plugins to seamlessly integrate our platform with existing policy frameworks used by governments and international organizations (IOs). This enables policymakers to access relevant data, insights, and analysis directly within their workflow, enhancing the efficacy of migration policies and interventions.
+
 
 ## References
 
