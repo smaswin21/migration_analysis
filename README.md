@@ -70,6 +70,12 @@ International Organization for Migration (IOM). (n.d.). Missing Migrants. Retrie
 
 UNHCR. (2023). Mid-year trends report 2023. Retrieved from https://www.unhcr.org/mid-year-trends-report-2023
 
+Here are the links formatted in APA style:
+
+ACLED. (n.d.). Conflict Index. Retrieved from https://acleddata.com/conflict-index/#:~:text=The%20ACLED%20Conflict%20Index%20assesses,collected%20for%20the%20past%20year
+
+Our World in Data. (n.d.). War and Peace Data Explorers. Retrieved from https://ourworldindata.org/war-and-peace-data-explorers
+
 ## Support
 
 [Provide contact information or links to support channels where users can seek help or report issues related to your project.]
