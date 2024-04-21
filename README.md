@@ -58,13 +58,21 @@ We extend our sincere appreciation to the following individuals, organizations, 
 
 We also draw inspiration from various sources and references throughout the development process, contributing to the creativity and effectiveness of our project.
 
+## References
+
+TRT World. (2023). Numbers in migration: Where the world stands in 2023. Retrieved from https://www.trtworld.com/discrimination/numbers-in-migration-where-the-world-stands-in-2023-16291722
+
+World Bank. (n.d.). Home. Retrieved from https://data.worldbank.org/
+
+International Committee of the Red Cross (ICRC). (n.d.). No Trace of You: Missing Migrants. Retrieved from https://www.icrc.org/en/document/no-trace-you-missing-migrants
+
+International Organization for Migration (IOM). (n.d.). Missing Migrants. Retrieved from https://missingmigrants.iom.int/
+
+UNHCR. (2023). Mid-year trends report 2023. Retrieved from https://www.unhcr.org/mid-year-trends-report-2023
+
 ## Support
 
 [Provide contact information or links to support channels where users can seek help or report issues related to your project.]
-
-## Additional Information
-
-[Optional section to thank individuals or groups who supported or inspired your project, including mentors, collaborators, or community members.]
 
 ## About the Author
 
