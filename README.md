@@ -29,21 +29,35 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 [Provide step-by-step instructions on how to install and set up your project, including any dependencies or prerequisites needed.]
 - Install the necessary packages which can be found in the beginning of each jupyter notebook.
 
-## Usage
+## Usage ADD CONTENT
 
 [Explain how to use your project, including any commands, configuration options, or examples. Provide screenshots or GIFs if applicable.]
 
 ## Contributing
 
-[Explain how others can contribute to your project, including guidelines for submitting bug reports, feature requests, or pull requests. Include information on how contributions will be reviewed and accepted.]
+We welcome contributions from everyone to improve this project. To contribute, please follow these guidelines:
 
-## License
+### Bug Reports
 
-[Specify the license under which your project is distributed. Include any limitations or conditions associated with the license.]
+If you encounter a bug or issue while using the project, please ensure the bug has not already been reported by checking the existing issues. If it hasn't been reported yet, open a new issue providing detailed steps to reproduce the bug, along with any relevant information about your environment.
+
+### Feature Requests
+
+If you have an idea for a new feature or enhancement, feel free to submit a feature request. Before submitting, please check the existing feature requests to avoid duplicates. Describe the proposed feature clearly and provide any relevant context or use cases to help us understand its importance.
+
+Thank you for your interest in contributing to our project! We appreciate your help in making it better for everyone.
 
 ## Credits
 
-[List any individuals, organizations, or resources that contributed to your project, including libraries, frameworks, or external APIs used. Acknowledge any inspiration or references used in developing your project.]
+We extend our sincere appreciation to the following individuals, organizations, and resources that have contributed to the development and success of this project:
+
+- **Hertie School**: We are grateful to the Hertie School for presenting the challenge and organizing the Data4GoodFest, providing a platform for innovation and collaboration in the pursuit of social impact.
+
+- **Missing Migrants Project**: Our heartfelt thanks to the Missing Migrants Project for providing the dataset, which has been instrumental in our analysis and solution development.
+
+- **Frameworks Used**: We utilized several frameworks to develop this project, including Python for backend development, Shiny for interactive web applications, OpenAI for natural language processing capabilities, and the News API for gathering additional information from online news sources. Each of these tools played a crucial role in shaping our solution and enhancing its functionality.
+
+We also draw inspiration from various sources and references throughout the development process, contributing to the creativity and effectiveness of our project.
 
 ## Support
 
@@ -73,14 +87,6 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 
 [Outline any future plans, enhancements, or features planned for your project. Invite users to contribute ideas or feedback to help shape the project's roadmap.]
 
-## Code of Conduct
-
-[Include a code of conduct outlining expected behavior and guidelines for interacting with other contributors and users within your project's community.]
-
-## How to Get Involved
-
-[Provide information on how users can get involved with your project, such as joining discussions, participating in events, or contributing code.]
-
 ## Feedback
 
 [Encourage users to provide feedback or suggestions for improving your project, and provide instructions on how they can share their thoughts or ideas.]
@@ -92,10 +98,6 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 ## Support the Project
 
 [Include information on how users can support your project, such as donations, sponsorships, or spreading the word through social media.]
-
-## Release History
-
-[Document previous releases or versions of your project, including dates, version numbers, and summaries of changes or updates.]
 
 ## Security
 
