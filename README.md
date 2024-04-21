@@ -27,6 +27,10 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 
 ## Installation
 
+Got it! Here's the revised version:
+
+## Installation
+
 To set up and install our project on your local device, follow these steps:
 
 1. **Clone the Repository**: Begin by cloning the repository to your local machine. You can do this by executing the following command in your terminal or command prompt:
@@ -34,20 +38,8 @@ To set up and install our project on your local device, follow these steps:
    ```
    git clone [repository URL]
    ```
-
-2. **Install Dependencies**: Navigate to the project directory and install the necessary packages and dependencies. You can find a list of required packages in the beginning of each Jupyter notebook or in the `requirements.txt` file. Install the packages using pip or conda:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-   or
-
-   ```
-   conda install --file requirements.txt
-   ```
-
-   Make sure to activate your virtual environment if you are using one.
+   
+2. **Install Necessary Packages**: Navigate to the project directory and ensure that you have all the required packages. The packages can be installed at the beginning of each Jupyter notebook.
 
 3. **Set Up Environment**: If there are any additional environment configurations or setups required, please refer to the project documentation or README file for instructions.
 
