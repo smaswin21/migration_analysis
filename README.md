@@ -63,7 +63,7 @@ We also draw inspiration from various sources and references throughout the deve
 
 [Provide contact information or links to support channels where users can seek help or report issues related to your project.]
 
-## Acknowledgements
+## Additional Information
 
 [Optional section to thank individuals or groups who supported or inspired your project, including mentors, collaborators, or community members.]
 
