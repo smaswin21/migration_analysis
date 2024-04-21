@@ -23,12 +23,6 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 3. [Contributing](#contributing)
 4. [Credits](#credits)
 
-## Installation ADD CONTENT
-
-## Installation
-
-Got it! Here's the revised version:
-
 ## Installation
 
 To set up and install our project on your local device, follow these steps:
