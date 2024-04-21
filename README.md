@@ -22,7 +22,6 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 2. [Usage](#usage)
 3. [Contributing](#contributing)
 4. [Credits](#credits)
-5. [Additional Material](#additional material)
 
 ## Installation ADD CONTENT
 
