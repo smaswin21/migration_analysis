@@ -27,7 +27,7 @@ The dataset provided by the Missing Migrants Project tracks the deaths of migran
 ## Installation ADD CONTENT
 
 [Provide step-by-step instructions on how to install and set up your project, including any dependencies or prerequisites needed.]
-1. Install the necessary packages which can be found in the beginning of each jupyter notebook.
+- Install the necessary packages which can be found in the beginning of each jupyter notebook.
 
 ## Usage
 
