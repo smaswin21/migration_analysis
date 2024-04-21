@@ -58,6 +58,21 @@ We extend our sincere appreciation to the following individuals, organizations, 
 
 We also draw inspiration from various sources and references throughout the development process, contributing to the creativity and effectiveness of our project.
 
+## Resources
+
+
+## Support
+
+[Provide contact information or links to support channels where users can seek help or report issues related to your project.]
+
+## About the Author
+
+[Provide a brief bio or introduction about yourself, including your role in developing the project and any relevant background or expertise.]
+
+## Roadmap
+
+[Outline any future plans, enhancements, or features planned for your project. Invite users to contribute ideas or feedback to help shape the project's roadmap.]
+
 ## References
 
 TRT World. (2023). Numbers in migration: Where the world stands in 2023. Retrieved from https://www.trtworld.com/discrimination/numbers-in-migration-where-the-world-stands-in-2023-16291722
@@ -76,46 +91,3 @@ ACLED. (n.d.). Conflict Index. Retrieved from https://acleddata.com/conflict-ind
 
 Our World in Data. (n.d.). War and Peace Data Explorers. Retrieved from https://ourworldindata.org/war-and-peace-data-explorers
 
-## Support
-
-[Provide contact information or links to support channels where users can seek help or report issues related to your project.]
-
-## About the Author
-
-[Provide a brief bio or introduction about yourself, including your role in developing the project and any relevant background or expertise.]
-
-## Related Projects
-
-[Include links to any related projects or repositories that complement or extend the functionality of your project.]
-
-## Changelog
-
-[Optional section to document changes, updates, or new features added to your project over time.]
-
-## Frequently Asked Questions (FAQ)
-
-[Include a list of frequently asked questions and their answers to provide additional support and clarification for users.]
-
-## Roadmap
-
-[Outline any future plans, enhancements, or features planned for your project. Invite users to contribute ideas or feedback to help shape the project's roadmap.]
-
-## Feedback
-
-[Encourage users to provide feedback or suggestions for improving your project, and provide instructions on how they can share their thoughts or ideas.]
-
-## Resources
-
-[Include links to additional resources, documentation, or tutorials related to your project for users seeking further information or guidance.]
-
-## Support the Project
-
-[Include information on how users can support your project, such as donations, sponsorships, or spreading the word through social media.]
-
-## Security
-
-[Provide information on any security measures or best practices implemented in your project, and offer guidance on how users can report security vulnerabilities or concerns.]
-
-## Appendix
-
-[Include any additional information or supplementary materials relevant to your project, such as diagrams, charts, or sample datasets.]
