@@ -70,8 +70,6 @@ We extend our sincere appreciation to the following individuals, organizations, 
 We also draw inspiration from various sources and references throughout the development process, contributing to the creativity and effectiveness of our project.
 
 ## Resources
-Sweetviz. (n.d.). Retrieved from https://pypi.org/project/sweetviz/
-
 Shiny. (n.d.). Retrieved from https://shiny.posit.co/py/
 
 OpenAI. (n.d.). OpenAI API Documentation. Retrieved from https://platform.openai.com/docs/api-reference?lang=python
@@ -81,8 +79,6 @@ OpenAI. (n.d.). OpenAI API Documentation. Retrieved from https://platform.openai
 We are a team of Bachelor students from IE University, comprising Armand Hubler, Isabel De Valenzuela, Aswin Subramanian Maheswaran, Emili Khachatryan, and Riyad Mazari. Our academic pursuits span across Computer Science, Data and Business Analytics, and Business Administration.
 
 With a shared passion for technology and social impact, we have collaborated to develop this project, leveraging our diverse skill sets and academic backgrounds. Our combined expertise in computer science, data analytics, and business administration has been instrumental in conceptualizing, designing, and implementing innovative solutions to address real-world challenges.
-
-As aspiring professionals in our respective fields, we are committed to leveraging technology for positive change and making meaningful contributions to society. We are excited to share our project with the community and welcome feedback and collaboration opportunities to further enhance its impact.
 
 ## Roadmap
 
